@@ -10,3 +10,11 @@ Clinical Data Science
 - [Clinical Data Models](docs/cdm.md)
 - [Common Data Model](docs/cdms.md)
 - [OMOP](docs/omop.md)
+- ETL
+  - [Data Profiling with White Rabbit](docs/wr.md)
+  - [Data Mapping with Rabbit in a Hat](http://www.ohdsi.org/web/wiki/doku.php?id=documentation:software:whiterabbit)
+  - [Terminology Mapping]
+
+
+# Computational Phenotyping
+- [Introduction](docs/introcp.md)

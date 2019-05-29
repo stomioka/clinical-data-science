@@ -8,7 +8,7 @@ Medical Information Mart for Intensive Care
 - De-identified health data
 - Over 40,000 patients treated in critical care at Beth Israel Deaconess Medical Center
 
-
+![](images/mimic3-8e940b10.png)
 ![](images/mimic3-36006b65.png)
 ![](images/mimic3-a82103a7.png)
 ![](images/mimic3-b874ad72.png)
